@@ -1,7 +1,7 @@
 {
     "name": "ZetHebergeMC-Launcher",
     "preductname": "ZetHeberge Launcher",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "launcher ZetHebergeMC, PVP/Faction moddé minecraft pour premium",
     "main": "src/app.js",
     "author": "Alexandre",
