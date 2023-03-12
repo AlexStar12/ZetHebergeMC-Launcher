@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.2.0",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "name": "ZetHebergeMC-Launcher",
+    "preductname": "ZetHeberge Launcher",
+    "version": "1.2.1",
+    "description": "launcher ZetHebergeMC, PVP/Faction moddé minecraft pour premium",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://craftdium.ml/launcherSelvania",
+    "author": "Alexandre",
+    "url": "https://launcher.zetheberge.com",
     "engines": {
         "node": "^18.x.x"
     },
@@ -31,6 +31,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/AlexStar12/ZetHebergeMC-Launcher.git"
     }
 }
